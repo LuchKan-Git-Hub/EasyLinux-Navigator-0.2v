@@ -1,7 +1,5 @@
 # EasyLinux Navigator | 0.1v
 
-![Alien Robot](https://cdn.pixabay.com/photo/2017/05/10/21/48/alien-robot-android-antennae-1905155_1280.png)
-
 A beginner-friendly Linux terminal navigator and open-source Python project.
 
 EasyLinux Navigator is designed to help newcomers explore and manage files and directories in Linux without memorizing commands. It allows you to:
