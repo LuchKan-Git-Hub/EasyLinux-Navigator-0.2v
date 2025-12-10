@@ -1,4 +1,4 @@
-# EasyLinux Navigator | 0.1v
+# EasyLinux Navigator | 0.2v
 
 A beginner-friendly Linux terminal navigator and open-source Python project.
 
